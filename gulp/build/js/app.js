@@ -1,0 +1,1 @@
+$(function(){function n(){return!1}document.ondragstart=n,document.onselectstart=n,document.oncontextmenu=n,document.oncopy=n,document.onpaste=n});
